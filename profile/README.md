@@ -14,4 +14,6 @@ In comparison to our common place competition, we open the door to new never bef
 - Support us by donating through [webstore coming soon]()
 - Visit our wiki at [wiki coming soon]()
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tQxMhDeQt2)
+<a href="https://discord.gg/tQxMhDeQt2">
+         <img alt="Vanilla Earth Discord" src="https://discord.com/api/guilds/918270591499403304/widget.png?style=banner2">
+</a>
