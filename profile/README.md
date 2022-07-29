@@ -1,6 +1,6 @@
 # VanillaEarth
 
-![Header](hhttps://raw.githubusercontent.com/VanillaEarth/.github/main/profile/assets/newheader.png "Header")
+[![Header](https://raw.githubusercontent.com/VanillaEarth/.github/main/profile/assets/newheader.png "Header")](<link coming soon>)
 
 Vanilla Earth is a 1:500 sized Earth Map SMP where you can build, socialize, and have fun! With almost 2 years of experience starting from just a simple realm, to where we are now. We have come a very long way to give the players an absolutely flawless server experience when it comes to Earth replicated SMP's. The player's experience is number one priority for us always, and we will try our hardest to give you the best experience possible while playing on our server.
 
