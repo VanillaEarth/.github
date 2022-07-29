@@ -4,7 +4,7 @@
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
 
-<h1 align="center"> [![Header](https://raw.githubusercontent.com/VanillaEarth/.github/main/profile/assets/newheader.png "Header")]() </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/VanillaEarth/.github/main/profile/assets/newheader.png"> </h1>
 
 
 
@@ -20,9 +20,7 @@ In comparison to our common place competition, we open the door to new never bef
 - Support us by donating through [webstore coming soon]()
 - Visit our wiki at [wiki coming soon]()
 
-<a href="https://discord.gg/tQxMhDeQt2">
-         <img alt="Vanilla Earth Discord" src="https://discord.com/api/guilds/918270591499403304/widget.json?style=banner2">
-</a>
+<iframe src="https://discord.com/widget?id=918270591499403304&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
