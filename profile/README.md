@@ -20,7 +20,9 @@ In comparison to our common place competition, we open the door to new never bef
 - Support us by donating through [webstore coming soon]()
 - Visit our wiki at [wiki coming soon]()
 
-<iframe src="https://discord.com/widget?id=918270591499403304&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a href="https://discord.gg/tQxMhDeQt2">
+         <img alt="Vanilla Earth Discord" src="https://discord.com/api/guilds/918270591499403304/widget.png?style=banner2">
+</a>
 
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
