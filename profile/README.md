@@ -1,4 +1,4 @@
-# .github
+# Vanilla Earth
 
 
 Hello VE
