@@ -1,4 +1,10 @@
-<img src="https://raw.githubusercontent.com/VanillaEarth/.github/main/profile/assets/newheader.png" alt="VE" class="center">
+<!--This readme is shit lol-->
+
+
+<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
+
+
+<h1 align="center"> [![Header](https://raw.githubusercontent.com/VanillaEarth/.github/main/profile/assets/newheader.png "Header")]() </h1>
 
 
 
@@ -15,5 +21,8 @@ In comparison to our common place competition, we open the door to new never bef
 - Visit our wiki at [wiki coming soon]()
 
 <a href="https://discord.gg/tQxMhDeQt2">
-         <img alt="Vanilla Earth Discord" src="https://discord.com/api/guilds/918270591499403304/widget.png?style=banner2">
+         <img alt="Vanilla Earth Discord" src="https://discord.com/api/guilds/918270591499403304/widget.json?style=banner2">
 </a>
+
+
+<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
